@@ -490,7 +490,6 @@ button { font-family: inherit; }
   background: #080CF0;
   color: #FFFFFF;
 }
-/* Модальное окно записи (LecturerDetail) */
 .modal-overlay {
   position: fixed;
   inset: 0;
